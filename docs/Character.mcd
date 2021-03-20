@@ -1,0 +1,8 @@
+TITLE: id, name
+:
+
+HAS, 0N TITLE, 11 CHARACTER
+CHARACTER: id, last_name, first_name, image, biography
+
+HOUSE: id, name, image, colour
+BELONGS TO, 0N HOUSE, 1N CHARACTER
